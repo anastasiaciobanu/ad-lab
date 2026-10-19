@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-import pyod
 from pyod.utils.data import generate_data
 
 X_train, X_test, y_train, y_test = generate_data(
